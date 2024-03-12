@@ -5,8 +5,8 @@
 - [*] Git - Introduction......https://www.w3schools.com/git/git_intro.asp?remote=github
 - [*] Configuration - Git config
 - [*] Repository
-- [ ] Commit
-- [ ] Stages of a file - Untracked, Staged, Tracked & Modified/Dirty
+- [*] Commit
+- [*] Stages of a file - Untracked, Staged, Tracked & Modified/Dirty
 - [ ] .gitignore
 - [ ] Diffing
 - [ ] Branching
