@@ -22,6 +22,8 @@
 - [ ] Pull Request
 - [ ] Forking
 
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
+
 Task:  
 1. Set your user name (user.name) and email address (user.email) using terminal
 2. Create a GitHub repository for the js assignments with the main branch as default branch.
