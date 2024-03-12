@@ -3,7 +3,7 @@
 ## Git  
 - [*] Version Control System - Benefits & types .......https://www.geeksforgeeks.org/version-control-systems/?ref=lbp  
 - [*] Git - Introduction......https://www.w3schools.com/git/git_intro.asp?remote=github
-- [ ] Configuration - Git config
+- [*] Configuration - Git config
 - [ ] Repository
 - [ ] Commit
 - [ ] Stages of a file - Untracked, Staged, Tracked & Modified/Dirty
