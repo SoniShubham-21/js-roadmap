@@ -7,11 +7,11 @@
 - [*] Repository
 - [*] Commit
 - [*] Stages of a file - Untracked, Staged, Tracked & Modified/Dirty
-- [ ] .gitignore
-- [ ] Diffing
-- [ ] Branching
-- [ ] Log command
-- [ ] Reset and Revert
+- [*] .gitignore
+- [*] Diffing
+- [*] Branching
+- [*] Log command
+- [*] Reset and Revert
 - [ ] Cherry Pick
 - [ ] Merge conflicts
 - [ ] Stashing
