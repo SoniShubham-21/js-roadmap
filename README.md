@@ -12,9 +12,9 @@
 - [*] Branching
 - [*] Log command
 - [*] Reset and Revert
-- [ ] Cherry Pick
+- [*] Cherry Pick
 - [*] Merge conflicts
-- [ ] Stashing
+- [*] Stashing
 - [*] Remote
 - [*] Pull & Push
 - [*] GitHub & GitLab
