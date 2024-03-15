@@ -13,14 +13,14 @@
 - [*] Log command
 - [*] Reset and Revert
 - [ ] Cherry Pick
-- [ ] Merge conflicts
+- [*] Merge conflicts
 - [ ] Stashing
-- [ ] Remote
-- [ ] Pull & Push
-- [ ] GitHub & GitLab
-- [ ] Merge Request
-- [ ] Pull Request
-- [ ] Forking
+- [*] Remote
+- [*] Pull & Push
+- [*] GitHub & GitLab
+- [*] Merge Request
+- [*] Pull Request
+- [*] Forking
 
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
