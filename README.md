@@ -1,26 +1,26 @@
 # JS Roadmap
 
 ## Git  
-- -[* ] Version Control System - Benefits & types .......https://www.geeksforgeeks.org/version-control-systems/?ref=lbp  
+- [X] Version Control System - Benefits & types .......https://www.geeksforgeeks.org/version-control-systems/?ref=lbp  
 - [X] Git - Introduction......https://www.w3schools.com/git/git_intro.asp?remote=github
-- [*] Configuration - Git config
-- [*] Repository
-- [*] Commit
-- [*] Stages of a file - Untracked, Staged, Tracked & Modified/Dirty
-- [*] .gitignore
-- [*] Diffing
-- [*] Branching
-- [*] Log command
-- [*] Reset and Revert
-- [*] Cherry Pick
-- [*] Merge conflicts
-- [*] Stashing
-- [*] Remote
-- [*] Pull & Push
-- [*] GitHub & GitLab
-- [*] Merge Request
-- [*] Pull Request
-- [*] Forking
+- [X] Configuration - Git config
+- [X] Repository
+- [X] Commit
+- [X] Stages of a file - Untracked, Staged, Tracked & Modified/Dirty
+- [X] .gitignore
+- [X] Diffing
+- [x] Branching
+- [x] Log command
+- [x] Reset and Revert
+- [x] Cherry Pick
+- [x] Merge conflicts
+- [x] Stashing
+- [x] Remote
+- [x] Pull & Push
+- [x] GitHub & GitLab
+- [x] Merge Request
+- [x] Pull Request
+- [x] Forking
 
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
