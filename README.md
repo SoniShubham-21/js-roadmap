@@ -1,7 +1,7 @@
 # JS Roadmap
 
 ## Git  
-- -[ ] Version Control System - Benefits & types .......https://www.geeksforgeeks.org/version-control-systems/?ref=lbp  
+- -[* ] Version Control System - Benefits & types .......https://www.geeksforgeeks.org/version-control-systems/?ref=lbp  
 - [X] Git - Introduction......https://www.w3schools.com/git/git_intro.asp?remote=github
 - [*] Configuration - Git config
 - [*] Repository
