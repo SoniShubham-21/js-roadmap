@@ -50,11 +50,11 @@ Reference:
 17. https://github.com/git-tips/tips
 
 ## HTML: 
-- [ ] Introduction to HTML 
-- [ ] Elements and Attributes 
-- [ ] Classes and identifiers 
-- [ ] Forms & Inputs 
-- [ ] Semantic HTML
+- [x] Introduction to HTML 
+- [x] Elements and Attributes 
+- [x] Classes and identifiers 
+- [x] Forms & Inputs 
+- [x] Semantic HTML
 
 Task: 
 1. Create a Registration and Login page for an eCommerce website
