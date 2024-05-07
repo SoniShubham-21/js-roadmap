@@ -90,10 +90,12 @@ https://flukeout.github.io/
  
 - [x] Introduction to JavaScript 
 - [x] Variables 
-- [ ] var, let, and const 
+- [x] var, let, and const
+      https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/ 
 - [x] Data types 
-- [ ] Primitives 
-- [ ] Type Conversions 
+- [x] Primitives 
+- [x] Type Conversions
+      https://www.programiz.com/javascript/type-conversion 
 - [x] Operators 
 - [x] typeof operator 
 - [x] Comparisons 
@@ -104,7 +106,9 @@ https://flukeout.github.io/
 - [ ] The "switch" statement 
 - [ ] Functions 
 - [ ] Function expressions 
-- [ ] console object and its methods  
+- [x] console object and its methods
+      https://www.w3schools.com/jsref/obj_console.asp
+      https://www.geeksforgeeks.org/console-in-javascript/
 
 Task:
 1. Find out about the most popular JavaScript frameworks. (At least 5)
