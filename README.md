@@ -99,11 +99,11 @@ https://flukeout.github.io/
 - [x] Operators 
 - [x] typeof operator 
 - [x] Comparisons 
-- [ ] Interaction: alert, prompt, confirm 
+- [x] Interaction: alert, prompt, confirm 
 - [x] Conditional operators: if, '?' 
 - [x] Logical operators 
 - [ ] Loops & iteration 
-- [ ] The "switch" statement 
+- [x] The "switch" statement 
 - [ ] Functions 
 - [ ] Function expressions 
 - [x] console object and its methods
