@@ -63,11 +63,11 @@ Reference:
 1. https://blog.dareboost.com/en/2020/05/preload-prefetch-preconnect-resource-hints/
 
 ## CSS Basic:                                   
-- [ ] Introduction to CSS 
-- [ ] CSS Selectors 
-- [ ] Inline, Internal, and External CSS 
-- [ ] CSS Properties 
-- [ ] Viewport
+- [x] Introduction to CSS 
+- [x] CSS Selectors 
+- [x] Inline, Internal, and External CSS 
+- [x] CSS Properties 
+- [x] Viewport
 
 Reference:
 1. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
@@ -88,18 +88,18 @@ https://flukeout.github.io/
 
 ### JS Module 1:  
  
-- [ ] Introduction to JavaScript 
-- [ ] Variables 
+- [x] Introduction to JavaScript 
+- [x] Variables 
 - [ ] var, let, and const 
-- [ ] Data types 
+- [x] Data types 
 - [ ] Primitives 
 - [ ] Type Conversions 
-- [ ] Operators 
-- [ ] typeof operator 
-- [ ] Comparisons 
+- [x] Operators 
+- [x] typeof operator 
+- [x] Comparisons 
 - [ ] Interaction: alert, prompt, confirm 
-- [ ] Conditional operators: if, '?' 
-- [ ] Logical operators 
+- [x] Conditional operators: if, '?' 
+- [x] Logical operators 
 - [ ] Loops & iteration 
 - [ ] The "switch" statement 
 - [ ] Functions 
