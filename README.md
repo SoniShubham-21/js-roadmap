@@ -102,10 +102,10 @@ https://flukeout.github.io/
 - [x] Interaction: alert, prompt, confirm 
 - [x] Conditional operators: if, '?' 
 - [x] Logical operators 
-- [ ] Loops & iteration 
+- [x] Loops & iteration 
 - [x] The "switch" statement 
-- [ ] Functions 
-- [ ] Function expressions 
+- [x] Functions 
+- [x] Function expressions 
 - [x] console object and its methods
       https://www.w3schools.com/jsref/obj_console.asp
       https://www.geeksforgeeks.org/console-in-javascript/
